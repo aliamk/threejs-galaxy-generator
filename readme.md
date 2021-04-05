@@ -1,16 +1,1 @@
-# Three.js Journey
-
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+![particle_color_lerp](https://user-images.githubusercontent.com/63723832/113575034-2be77200-9615-11eb-9367-97b037c78660.gif)
